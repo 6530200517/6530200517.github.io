@@ -1,4 +1,4 @@
-# Board Game 
+# Securing the Human
 ________________________________________________________________________________________
 ## Group : Kraprao Mhookrob Kaidao 
 ![img](img/boardgame/bg2.jpg)
