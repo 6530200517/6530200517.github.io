@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 3. [Kasidid Yookong](https://kasidid-y.github.io/)
 
-4. [Punnakan Punsiri](https://qlerdev.github.io/)
+4. [Punnakan Punsiri](https://qlerdev.github.io/boardgame)
 
 
 [my profile](https://6530200517.github.io/)
