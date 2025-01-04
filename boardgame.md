@@ -18,11 +18,11 @@ ________________________________________________________________________________
 
 ### **เพื่อนร่วมอุดมการณ์**
 
-1. [Amarin Yaowarod](https://6530200908.github.io/)
+1. [Amarin Yaowarod](https://6530200908.github.io/boardgame)
 
-2. [Panupong Thondcherd](https://6530200339.github.io/)
+2. [Panupong Thondcherd](https://6530200339.github.io/boardgame)
 
-3. [Kasidid Yookong](https://kasidid-y.github.io/)
+3. [Kasidid Yookong](https://kasidid-y.github.io/boardgame)
 
 4. [Punnakan Punsiri](https://qlerdev.github.io/boardgame)
 
