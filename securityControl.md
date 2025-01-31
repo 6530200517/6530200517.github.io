@@ -1,6 +1,6 @@
-# Security Control
+# **Security Control**
 
-## สุนัขเฝ้ายาม (Guard Dog)
+### **สุนัขเฝ้ายาม (Guard Dog)**
 
 ![img](556)
 
