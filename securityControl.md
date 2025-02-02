@@ -2,9 +2,9 @@
 
 ### **สุนัขเฝ้ายาม (Guard Dog)**
 
-![img](556)
+![img](img/dog.png)
 
- **Location**: 
+ **Location**: ใต้ตึก 17
  
  **Control Function**: Preventative
  
