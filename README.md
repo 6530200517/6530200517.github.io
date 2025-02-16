@@ -13,4 +13,4 @@
 
 [boardgame](https://6530200517.github.io/boardgame)
 
-[Security Control](https://6530200517.github.io/securityControl)
+[Security Control](https://6530200517.github.io/security-control)
