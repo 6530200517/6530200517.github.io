@@ -1,5 +1,7 @@
 # OWASP Application Security Verification Standard
 
+---
+
 ## V12.5.2 File Download
 Verify that direct requests to uploaded files will never be executed as 
 HTML/JavaScript content.
@@ -10,5 +12,5 @@ HTML/JavaScript content.
 
 - 💡My Summary : ป้องกันไฟล์ที่อัปโหลดไม่ให้รันเป็น HTML/JavaScript
 
-## 🧠 Buddy
+### 🧠 Buddy
 [Sitthipong Klaewkla](https://6530200851.github.io/security-requirement)
