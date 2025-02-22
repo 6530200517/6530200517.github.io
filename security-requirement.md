@@ -9,7 +9,7 @@ HTML/JavaScript content.
 - 🔍 Gemini
 "ยืนยันว่าไฟล์ที่อัปโหลดจะไม่ถูกประมวลผลเป็นโค้ด HTML/JavaScript เมื่อมีการเข้าถึงโดยตรง"
 
--💡My Summary
+- 💡My Summary
 ป้องกันไฟล์ที่อัปโหลดไม่ให้รันเป็น HTML/JavaScript
 
 ## 🧠 Buddy
