@@ -15,4 +15,4 @@
 
 [Security Control](https://6530200517.github.io/security-control)
 
-[Security Requirement](https://6530200517.github.io/security-requirement.md)
+[Security Requirement](https://6530200517.github.io/security-requirement)
