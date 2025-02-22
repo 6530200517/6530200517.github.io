@@ -11,3 +11,6 @@ HTML/JavaScript content.
 
 ## My Summary
 ป้องกันไฟล์ที่อัปโหลดไม่ให้รันเป็น HTML/JavaScript
+
+## Buddy
+[Sitthipong Klaewkla](https://6530200517.github.io/security-requirement.md)
