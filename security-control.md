@@ -5,7 +5,9 @@
 ![img](img/dog.png)
 
  **Location**: ใต้ตึก 17
+  
  **Control Function**: Preventative
+  
  **Type of Security Control**: Physical Control
 
 ---
